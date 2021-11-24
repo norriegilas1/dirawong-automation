@@ -1,0 +1,11 @@
+{
+    "defaultCommandTimeout": 5000,
+    "e2e": {
+      "defaultCommandTimeout": 10000
+    },
+    "chromeWebSecurity": false,
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "pageLoadTimeout": 60000,
+    "requestTimeout": 5000
+}
