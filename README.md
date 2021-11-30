@@ -28,7 +28,6 @@ Automation Tool for Dirawong Internal Projects
 * [Cypress]
 * [MochaJS] 
 * [NodeJS]
-* [GitLab]
 
 
 <!-- GETTING STARTED -->
